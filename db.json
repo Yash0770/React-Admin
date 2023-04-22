@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Post One",
+      "body": "This is the  post body",
+      "publishedAt": "22-04-2023"
+    },
+    {
+      "id": "2",
+      "title": "Post Two",
+      "body": "This is the  post body",
+      "publishedAt": "22-04-2023"
+    },
+    {
+      "id": "3",
+      "title": "Post Three",
+      "body": "This is the  post body",
+      "publishedAt": "22-04-2023"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Yash",
+      "email": "yash@gmail.com"
+    },
+    {
+      "title": "user",
+      "body": "body",
+      "publishedAt": "2023-04-04",
+      "id": "1-Tjk8y"
+    }
+  ]
+}
