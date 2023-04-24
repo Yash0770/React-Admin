@@ -4,32 +4,43 @@
       "id": "1",
       "title": "Post One",
       "body": "This is the  post body",
-      "publishedAt": "22-04-2023"
+      "publishedAt": "2023-04-22"
     },
     {
       "id": "2",
       "title": "Post Two",
       "body": "This is the  post body",
-      "publishedAt": "22-04-2023"
+      "publishedAt": "2023-04-22"
     },
     {
       "id": "3",
       "title": "Post Three",
       "body": "This is the  post body",
-      "publishedAt": "22-04-2023"
+      "publishedAt": "2023-04-22"
     }
   ],
   "users": [
     {
       "id": "1",
+      "title": "Yash",
       "name": "Yash",
-      "email": "yash@gmail.com"
+      "email": "yash@gmail.com",
+      "publishedAt": "2023-04-23"
     },
     {
+      "id": "2",
       "title": "user",
+      "name": "user",
+      "email": "user@gmail.com",
       "body": "body",
+      "publishedAt": "2023-04-22"
+    },
+    {
+      "title": "demo title",
+      "email": "demo@gmail.com",
       "publishedAt": "2023-04-04",
-      "id": "1-Tjk8y"
+      "name": "demo",
+      "id": "5MCbid2"
     }
   ]
 }
